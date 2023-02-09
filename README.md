@@ -4,3 +4,6 @@ A repository containing the source code for the Algorithms for Intelligence Web 
 
 ## Lab - 1
 Sentence Tokenizer, Word Tokenizer, Removals of the StopWords and Stemming
+
+## Lab - 2
+Inverted Index and Merge Algoirthm
