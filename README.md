@@ -7,3 +7,5 @@ Sentence Tokenizer, Word Tokenizer, Removals of the StopWords and Stemming
 
 ## Lab - 2
 Inverted Index and Merge Algorithm
+
+> AIWIR Lab & Assignment 2023
